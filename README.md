@@ -27,3 +27,5 @@ python model.py
 # Run the server
 uvicorn server:app --reload
 ```
+
+Functionality will be available on /test endpoint where you should include your text into the 'text' field in the JSON body of the POST request
