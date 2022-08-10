@@ -1,10 +1,8 @@
 import numpy as np
 import pandas as pd
-import tensorflow as tf
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error
 from tensorflow.keras.models import load_model
-import tensorflow as tf
 
 import autokeras as ak
 
